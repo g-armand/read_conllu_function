@@ -1,5 +1,5 @@
 # read_collu_function
-make sure to dowload conllu_io.py and read_conllu_function.py for this program to work.
+make sure to dowload conllu_io.py and read_conllu_function.py for this program to work.\n
 /!\save them in the same repository/!\
 
 train_gsd.conllu is the corpus used by this function (note: train_fr_gsd-ud.conllu, celui que l'on doit utiliser pour le TP5), feel free to test this function with other corpuses.
