@@ -4,7 +4,8 @@ make sure to dowload conllu_io.py and read_conllu_function.py for this program t
 /!\save them in the same repository/!\
 
 train_gsd.conllu is the corpus used by this function (note: train_fr_gsd-ud.conllu, celui que l'on doit utiliser pour le TP5), feel free to test this function with other corpuses.
-when you call this function in your main program make sure to:
+
+When you call this function in your main program make sure to:
 
   -put "import read_conllu_function" at the top of your program
   
